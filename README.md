@@ -11,12 +11,15 @@ The data Martha will be working with is not ideal, so it will need to be process
 ## Results
 ### Deliverable 3: Clustering Crytocurrencies Using K-Means
 Finding the Best Value for k Using the Elbow Curve
+
 ![image](https://user-images.githubusercontent.com/90117562/157732557-f46c1b94-5fef-48c4-9202-18fc8a179520.png)
 
 ### Deliverable 4: Visualizing Cryptocurrencies Results
 3D-Scatter with Clusters
+
 ![image](https://user-images.githubusercontent.com/90117562/157732614-e6c38d1b-d593-4a5e-8dd7-53d4dc6b6b62.png)
 
 ### 2D-Scatter plot with TotalCoinMined vs TotalCoinSupply
+
 ![image](https://user-images.githubusercontent.com/90117562/157732724-54fe3e8e-aae8-43a1-8a9a-84c832d74cae.png)
 
